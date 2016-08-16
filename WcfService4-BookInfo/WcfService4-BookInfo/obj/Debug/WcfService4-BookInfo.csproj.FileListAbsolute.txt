@@ -1,0 +1,6 @@
+C:\Users\Aakanxu\Documents\Visual Studio 2013\Projects\WcfService4-BookInfo\WcfService4-BookInfo\bin\WcfService4-BookInfo.dll.config
+C:\Users\Aakanxu\Documents\Visual Studio 2013\Projects\WcfService4-BookInfo\WcfService4-BookInfo\bin\WcfService4-BookInfo.dll
+C:\Users\Aakanxu\Documents\Visual Studio 2013\Projects\WcfService4-BookInfo\WcfService4-BookInfo\bin\WcfService4-BookInfo.pdb
+C:\Users\Aakanxu\Documents\Visual Studio 2013\Projects\WcfService4-BookInfo\WcfService4-BookInfo\obj\Debug\WcfService4-BookInfo.csprojResolveAssemblyReference.cache
+C:\Users\Aakanxu\Documents\Visual Studio 2013\Projects\WcfService4-BookInfo\WcfService4-BookInfo\obj\Debug\WcfService4-BookInfo.dll
+C:\Users\Aakanxu\Documents\Visual Studio 2013\Projects\WcfService4-BookInfo\WcfService4-BookInfo\obj\Debug\WcfService4-BookInfo.pdb
